@@ -1,7 +1,5 @@
 ### FoodFacts - Nutritional Analysis Platform
-
 ---
-
 ## Autores
 
 - [Carlos Sanchez](https://github.com/carlossm907) (U202015274)
