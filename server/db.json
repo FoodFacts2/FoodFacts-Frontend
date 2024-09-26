@@ -1,0 +1,34 @@
+{
+  "nutritionists": [
+    {
+      "id": 1,
+      "name": "Dr. Sarah Hallberg, MD, MS, FACP",
+      "description": "I help people with diabetes and obesity to improve their health and quality of life. I offer online coaching and group programs.",
+      "img": "https://i.postimg.cc/vmK9sLC8/nutri1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Susan Levin, MS, RD, CSSD",
+      "description": "I'm a registered dietitian and nutritionist specializing in plant-based diets, sports nutrition, weight loss, and chronic disease prevention.",
+      "img": "https://i.postimg.cc/MZ9wKPdY/nutri2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Jason Brown, MS, RDN",
+      "description": "I'm a nutritionist and wellness coach with a passion for helping people develop healthy habits and achieve their goals. I offer virtual consultations and personalized nutrition plans.",
+      "img": "https://i.postimg.cc/pLx3fKGd/nutri4.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Dr. Rachel Carmody, PhD",
+      "description": "I'm a nutrition scientist and educator with a focus on public health and environmental sustainability. I teach courses on food systems and nutrition policy at the university level.",
+      "img": "https://i.postimg.cc/qMNPBktk/nutri3.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Michael Davidson, MS, RDN, CDCES",
+      "description": "I'm a clinical nutritionist and certified diabetes care and education specialist (CDCES) with experience in hospital, outpatient, and corporate wellness settings. I provide evidence-based nutrition counseling and education for individuals.",
+      "img": "https://i.postimg.cc/xdp7Vh0k/nutri5.jpg"
+    }
+  ]
+}
