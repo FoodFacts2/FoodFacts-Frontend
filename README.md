@@ -1,30 +1,31 @@
-# foodfacts-frontend
+# FoodFacts Frontend
 
-This template should help get you started developing with Vue 3 in Vite.
+Este es el frontend de la aplicación FoodFacts, una plataforma que proporciona información nutricional y recomendaciones de salud para alimentos procesados.
 
-## Recommended IDE Setup
+## Descripción
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+FoodFacts es una aplicación web que permite a los usuarios acceder a información detallada sobre los valores nutricionales de los alimentos procesados, identificar riesgos para la salud y generar informes personalizados.
 
-## Customize configuration
+## Características
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+- **Valores Nutricionales Reales**: Accede a información nutricional exhaustiva sobre alimentos procesados.
+- **Identificación de Riesgos para la Salud**: Recibe recomendaciones adaptadas a tus necesidades alimenticias específicas.
+- **Informes Personalizados**: Genera reportes que muestran posibles daños a la salud a largo plazo.
 
-## Project Setup
+## Tecnologías Utilizadas
 
-```sh
-npm install
-```
+- **Vue.js**: Framework de JavaScript para construir interfaces de usuario.
+- **Vite**: Herramienta de construcción rápida para proyectos modernos.
+- **PrimeVue**: Biblioteca de componentes UI para Vue.js.
+- **Netlify**: Plataforma de despliegue y alojamiento para aplicaciones web estáticas.
 
-### Compile and Hot-Reload for Development
+## Instalación
 
-```sh
-npm run dev
-```
+Sigue estos pasos para instalar y ejecutar el proyecto localmente:
 
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-https://673d978645eeed2f4750ba42--illustrious-bublanina-f31eff.netlify.app/
+1. **Clonar el repositorio**:
+   ```bash
+   git clone https://github.com/FoodFacts2/FoodFacts-Frontend.git
+   cd FoodFacts-Frontend
+## Despliegue
+[https://673d978645eeed2f4750ba42--illustrious-bublanina-f31eff.netlify.app/]
